@@ -1,8 +1,11 @@
-# 🚀 Contact Information Extractor from Website WebApp 
+# 🚀 WebApp Contact Extractor
 
 ## Unleash the Power of Contact Discovery!
 
 Welcome to the WebApp Contact Extractor – your go-to tool for effortlessly extracting contact information from company websites. Say goodbye to tedious manual searches; say hello to streamlined efficiency!
+
+## Web App Screenshot
+![Web App Screenshot](capture_webapp_contact_scrapping.png)
 
 ## 🌟 Features That Shine
 
