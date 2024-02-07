@@ -1,4 +1,4 @@
-# 🚀 WebApp Contact Extractor
+# 🚀 Contact Information Extractor WebApp 
 
 ## Unleash the Power of Contact Discovery!
 
