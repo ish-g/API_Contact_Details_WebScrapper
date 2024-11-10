@@ -1,4 +1,4 @@
-# 🚀 WebApp Contact Extractor | [Live Project Link](https://ish-g-api-contact-details-webscrapper-webapp-90lgpt.streamlit.app/))
+# 🚀 WebApp Contact Extractor | [Live Project Link](https://ish-g-api-contact-details-webscrapper-webapp-90lgpt.streamlit.app/)
 
 ## Unleash the Power of Contact Discovery!
 
